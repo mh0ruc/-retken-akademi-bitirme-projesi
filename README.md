@@ -1,1 +1,1 @@
-# -retken-akademi-bitirme-projesi
+# uretken-akademi-bitirme-projesi
